@@ -1,6 +1,6 @@
 # Executive Demand & Inventory Performance Dashboard
 
-![Dashboard Preview](images/Dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ## 📌 Executive Summary
 This project delivers an end-to-end data pipeline and interactive Tableau dashboard designed to optimize supply chain inventory, track promotional lift, and evaluate forecast accuracy ($WAPE$). 
