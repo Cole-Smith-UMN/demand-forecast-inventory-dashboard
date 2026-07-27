@@ -1,0 +1,14 @@
+# Virtual Environments (ignore all python packages)
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & temp files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+Thumbs.db
